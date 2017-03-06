@@ -1,2 +1,2 @@
-print "new"
+print "Jenkins"
 print "Hello, World!"
